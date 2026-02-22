@@ -418,7 +418,7 @@ function togglePasswordInput(type) {
     ========================================= */
 const CRYPTO_CONFIG = {
     ALGO: { name: "AES-GCM", length: 256, tagLength: 128 },
-    KDF: { name: "PBKDF2", hash: "SHA-512", iterations: 2000000 },
+    KDF: { name: "PBKDF2", hash: "SHA-512", iterations: 600000 },
     SALT_LEN: 32, IV_LEN: 12, VERSION: 0x01,
     PUBLIC_CONSTANT: "CRYPTOVAULT_HARDENED_PUBLIC_CONST_V5_SHA512"
 };
