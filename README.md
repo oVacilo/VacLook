@@ -66,7 +66,7 @@ O sistema foi construído de forma intencionalmente estática para garantir port
 
 
 
-O VacLook foi construído para ser incrivelmente simples e portátil. Você pode executá-lo de três maneiras, dependendo do seu nível de conforto e ferramentas disponíveis:
+O VacLook foi construído para ser incrivelmente simples e portátil. Você pode executá-lo de duas maneiras, dependendo do seu nível de conforto e ferramentas disponíveis:
 
 
 
@@ -101,4 +101,5 @@ Se você prefere simular um ambiente de servidor local no seu desktop usando apl
 4\. Inicie o painel de controle do seu servidor (XAMPP/WampServer) e ative o serviço \*\*Apache\*\*.
 
 5\. Abra o seu navegador e acesse a URL: `http://localhost/VacLook`
+
 
