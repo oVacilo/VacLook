@@ -2,15 +2,13 @@
 
 
 
-!\[Status do Projeto](https://img.shields.io/badge/Status-Ativo-success)
-
-!\[Licença](https://img.shields.io/badge/License-MIT-blue)
-
-!\[Offline](https://img.shields.io/badge/Privacy-100%25\_Offline-brightgreen)
-
-
-
 \*\*VacLook\*\* é um sistema de criptografia projetado para garantir a máxima segurança e privacidade no armazenamento de dados. Nascido da necessidade de guardar informações sensíveis de forma interessante e impenetrável, o sistema permite que você proteja textos, imagens e arquivos diversos em um ambiente totalmente offline, longe dos olhos da internet.
+
+Acesse a ferramenta em nossa comunidade thevacilos
+👉 https://thevacilos.com/perfectkey
+
+Ou teste o VacLook diretamente no navegador:
+👉 https://ovacilo.github.io/VacLook/
 
 
 
