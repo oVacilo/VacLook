@@ -313,7 +313,7 @@ textarea.cv-input { resize: vertical; min-height: 140px; }
     .cv-icon-box {
         min-width: 45px !important;
     }
-    .cv-title p { padding-right: 20% !important; }
+    .cv-title p { padding-right: 20% !important; font-size: 11px; }
 
     div[style*="text-align: center"] p {
         font-size: 13px !important;
