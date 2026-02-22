@@ -66,7 +66,7 @@ O sistema foi construído de forma intencionalmente estática para garantir port
 
 
 
-O VacLook foi construído para ser incrivelmente simples e portátil. Você pode executá-lo de três maneiras, dependendo do seu nível de conforto e ferramentas disponíveis:
+O VacLook foi construído para ser incrivelmente simples e portátil. Você pode executá-lo de duas maneiras, dependendo do seu nível de conforto e ferramentas disponíveis:
 
 
 
